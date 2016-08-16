@@ -1,0 +1,99 @@
+
+* estimation
+
+** no estimates
+** S/M/L or fibonacci
+** hourly - with errors, measure & project? error rate?
+
+* planning
+
+** how are projects chosen?
+** what are all the projects currently? in the pipeline? historically?
+** what data do we have for each project's delivery?
+** what data should we start collecting and how simple can it be?
+** who is responsible for what in capacity planning, staffing, project planning?
+** can everyone in the company know everything all the time (wrt projects)? dashboards?
+** how unified should planning be across projects? how flexible / comfortable are team members with different PM styles?
+
+* reviews
+
+** how are people qualified for certain work? "level 3 project, L3 lead + L2 seniors (x2) + L0/1 team (x4)"?
+** what are the responsibilities of a tech lead? how experienced are tech leads?
+** who owns technical conversations with clients?
+** how much mentorship does anyone receive (post-training)?
+** how much stretching are people expected to do (devs/designers, especially)? is this different for different personalities?
+** how is the lack of science in the review process qualified?
+
+* architecture
+
+** what are the high-level architectures for each project?
+** is there uniformity between projects? do we want that?
+** how are projects classified in terms of their complexity? how is staffing managed for complex projects?
+** who owns the architecture?
+** how is it documented?
+** what is the acceptable range of living documentation?
+
+* growth
+
+** what is the projected hiring plan?
+** how are new hires sourced and interviewed?
+** what are the details of previous training? successes/pitfalls?
+** how should nilenso be involved with the new training?
+** what are the end goals/premises - the company's and the individuals'? how do these goals converge?
+
+* presentations
+
+** the big question: who are you and what are you doing?
+** time
+*** 2080 working weeks grid
+*** perception
+*** code: 2 axes
+*** life & health
+*** lifetime of the company
+*** lifetime of the species (long now+)
+*** company & code: learning to anticipate accurately
+** health
+*** holistic / high-level
+*** contemplation: silence, love, behaviour, self / god, will / flesh robots, styles / systems
+*** calming non-contemplation: music (in/out), art, "moving meditation"
+*** diet
+*** exercise
+*** habit, addiction
+*** sleep
+*** carpal tunnel? posture?
+*** nature & the city?
+** physical environment
+*** "mavrick" factories & plants
+*** light, colour, sound, chairs, monitors
+*** transportation
+*** food (fact0ry)
+** set theory & evolution for the company: org, execution, projects, policy/decisions (with roles pertaining to set size)
+** inceptions => project delivery => completion
+** tech leads
+** technology choices & design philosophy
+** correctness
+*** proof
+*** tdd
+*** generative
+** why open (source)?
+
+* technology choices
+** language: clojure & haskell, why?
+*** self-reference
+*** recursion
+*** time (2 axes: state & immutability, code evolution)
+*** language failures: ruby, c++
+*** when  is java the right choice? why?
+*** everything is equivalent: manisha agarwal: "turing something, something... :handwave:" / "to bake a cake you must begin with creating the universe"
+** "the network is the computer"
+** the new library / services topology - past & future
+*** amazon ml, wolfram language ml libs: build or reuse?
+** biases, religions, entrenching & lock-in, fads
+** scripts vs. services - reslience, release it! (?), anti-fragile?
+
+* design philosophy
+** all 6 senses
+** audio & japan
+** fads (shiny, flat... cars, historical fashion)
+** ubiquitous computing: "indistinguishable from magic"
+** the u.x. of the client/server big bang/crunch: "it's all been done before"
